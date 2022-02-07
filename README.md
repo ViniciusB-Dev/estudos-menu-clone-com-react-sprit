@@ -4,7 +4,7 @@
 
 # iniciar
 
-yarn start
+yarn
 
 # e
 
